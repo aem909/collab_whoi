@@ -21,8 +21,6 @@ plot(d)
 
 ##Making a plot
 ```{r}
-library(ggplot2)
-library(tidyr)
 
 
 

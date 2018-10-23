@@ -9,7 +9,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-```{r sean's chunk}
+```{r s_chunk}
 #here's some data
 
 d <- rnorm(30)

@@ -10,7 +10,11 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 
-```{r cars}
-summary(cars)
+
+##Making a plot
+```{r}
+x <- 
+
+
 ```
 

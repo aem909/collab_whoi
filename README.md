@@ -1,6 +1,6 @@
 # collab_whoi
 Hello world!!!!!!!!!!!!!!!!!!!
 
-This is Laurel
+Laurel is a 
 
 :whale:

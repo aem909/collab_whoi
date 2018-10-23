@@ -5,7 +5,9 @@ Laurel is a :hippo: :fish:
 
 :whale:
 
+:penguin:
 
+:tropical_fish:
 
 :octopus:
 

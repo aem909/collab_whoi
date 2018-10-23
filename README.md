@@ -1,6 +1,6 @@
 # collab_whoi
 Hello world!!!!!!!!!!!!!!!!!!!
 
-Laurel is a 
+Laurel is a :hippo: :fish: 
 
 :whale:

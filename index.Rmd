@@ -9,6 +9,14 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+```{r sean's chunk}
+#here's some data
+
+d <- rnorm(30)
+plot(d)
+
+
+```
 
 
 ##Making a plot

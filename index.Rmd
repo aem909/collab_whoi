@@ -13,7 +13,9 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ##Making a plot
 ```{r}
-x <- 
+library(ggplot2)
+library(tidyr)
+
 
 
 ```
